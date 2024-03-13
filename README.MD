@@ -7,6 +7,6 @@ A simple MVC based "Posting" web app built using (Jakarta EE 10):
 
 It has :
 
-- ROLE based registration and
-- Route protection
+- ROLE based registration,
+- Route protection and
 - Password hashing
